@@ -5,7 +5,7 @@ import androidx.room.Room
 import androidx.test.core.app.ApplicationProvider
 import androidx.test.ext.junit.runners.AndroidJUnit4
 import androidx.test.filters.SmallTest
-import com.example.roomwithkotlin.getOrAwaitValue
+import com.example.roomwithkotlin.test.getOrAwaitValue
 import com.example.roomwithkotlin.models.User1
 import com.google.common.truth.Truth.assertThat
 import kotlinx.coroutines.ExperimentalCoroutinesApi

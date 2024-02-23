@@ -102,5 +102,5 @@ dependencies {
 
     implementation "androidx.hilt:hilt-lifecycle-viewmodel:1.0.0-alpha02"
     kapt "androidx.hilt:hilt-compiler:1.0.0-alpha02"
-
+    androidTestImplementation 'androidx.test:rules:1.2.0'
 }
